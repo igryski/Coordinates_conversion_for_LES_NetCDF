@@ -15,7 +15,7 @@ fout=addfile("/media/ARPS_disk/TUD275152_backup_Feb_2013/data/les_model_output_3
 
 ;fout->ql2 = (/ql2/)
 
-fout->ql = fin->ql(z|:,y|:,x|:)   ;johan
+fout->ql = fin->ql(z|:,y|:,x|:)
 
 end
 
